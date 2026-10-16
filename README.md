@@ -98,11 +98,6 @@ The goal is to demonstrate clean layout, component usage, and dashboard structur
 
 ---
 
-## 📸 Screenshots  
-*(Add screenshots here once your repo is live)*
-
----
-
 ## 📄 License  
 This project is open‑source and available under the MIT License.
 
